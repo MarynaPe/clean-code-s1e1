@@ -54,7 +54,7 @@ ul {
 .task__label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task__text {
@@ -139,7 +139,7 @@ ul {
 }
 
 .type-text {
-  width: 226px
+  width: 226px;
 }
 
 .task__image {
@@ -160,12 +160,12 @@ ul {
 
 /* Edit Task */
 .task__item .type-text {
-  display: none
+  display: none;
 }
 
 .task__item.edit-mode .type-text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task__item.edit-mode .task__label {
